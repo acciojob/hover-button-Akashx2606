@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-#btn button{
+div #btn button{
 	background-color:rgb(0,0,0);
 	color:white;
 	border-radius:5px;
