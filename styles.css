@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 div #btn button{
-	background-color:rgb(0,0,0);
+	background-color:rgba(0,0,0,0);
 	color:white;
 	border-radius:5px;
 	border:none;	
